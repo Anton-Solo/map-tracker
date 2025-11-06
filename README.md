@@ -9,10 +9,14 @@ cd /Users/antonsolo/Documents/map-tracker
 Або вручну (2 термінали):
 ```bash
 # Термінал 1
-cd mock-server && npm run dev
+cd mock-server && npm install
+cp .env.example .env
+npm run dev
 
 # Термінал 2
-cd frontend && npm run dev
+cd frontend && npm install
+cp .env.example .env
+npm run dev
 ```
 
 ### 2️⃣ Відкрити браузер
