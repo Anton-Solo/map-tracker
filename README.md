@@ -2,7 +2,7 @@
 
 ### 1️⃣ Запустити сервери (автоматично)
 ```bash
-cd /Users/antonsolo/Documents/map-tets
+cd /Users/antonsolo/Documents/map-tracker
 ./START.sh
 ```
 
